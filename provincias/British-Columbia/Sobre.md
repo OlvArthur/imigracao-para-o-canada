@@ -1,5 +1,5 @@
 # Cidades
-* [Vancouver](https://pt.wikipedia.org/wiki/Vancouver)
+* [Vancouver](https://github.com/OlvArthur/imigracao-para-o-canada/edit/master/provincias/British-Columbia/Vancouver.md)
 * [Surrey](https://pt.wikipedia.org/wiki/Surrey_(Col%C3%BAmbia_Brit%C3%A2nica))
 * [Burnaby](https://pt.wikipedia.org/wiki/Burnaby)
 * [Richmond](https://pt.wikipedia.org/wiki/Richmond_(Col%C3%BAmbia_Brit%C3%A2nica))
