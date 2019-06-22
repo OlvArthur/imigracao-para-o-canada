@@ -1,11 +1,11 @@
 #Cidades
-*Vancouver
-*Surrey
-*Burnaby
-*Richmond
-*Abbotsford
-*Coquitlam
-*Saanich
+* Vancouver
+* Surrey
+* Burnaby
+* Richmond
+* Abbotsford
+* Coquitlam
+* Saanich
 * Delta
 * Kelowna
 * Langley
