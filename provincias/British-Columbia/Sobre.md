@@ -1,14 +1,14 @@
 # Cidades
 * [Vancouver](https://pt.wikipedia.org/wiki/Vancouver)
-* Surrey
-* Burnaby
-* Richmond
-* Abbotsford
-* Coquitlam
-* Saanich
-* Delta
-* Kelowna
-* Langley
-* Nanaimmo
-* Victoria
+* [Surrey](https://pt.wikipedia.org/wiki/Surrey_(Col%C3%BAmbia_Brit%C3%A2nica))
+* [Burnaby](https://pt.wikipedia.org/wiki/Burnaby)
+* [Richmond](https://pt.wikipedia.org/wiki/Richmond_(Col%C3%BAmbia_Brit%C3%A2nica))
+* [Abbotsford](https://pt.wikipedia.org/wiki/Abbotsford_(Col%C3%BAmbia_Brit%C3%A2nica))
+* [Coquitlam](https://pt.wikipedia.org/wiki/Coquitlam)
+* [Saanich](https://pt.wikipedia.org/wiki/Saanich)
+* [Delta](https://pt.wikipedia.org/wiki/Delta_(Col%C3%BAmbia_Brit%C3%A2nica))
+* [Kelowna](https://pt.wikipedia.org/wiki/Kelowna)
+* [Langley](https://pt.wikipedia.org/wiki/Langley_(Col%C3%BAmbia_Brit%C3%A2nica))
+* [Nanaimmo](https://pt.wikipedia.org/wiki/Nanaimohttps://pt.wikipedia.org/wiki/Nanaimo)
+* [Victoria](https://pt.wikipedia.org/wiki/Victoria_(Col%C3%BAmbia_Brit%C3%A2nica))
 
