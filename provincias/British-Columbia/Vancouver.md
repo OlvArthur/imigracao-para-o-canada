@@ -1,0 +1,6 @@
+# Custo de vida
+      * 
+
+
+# Clima
+      *
