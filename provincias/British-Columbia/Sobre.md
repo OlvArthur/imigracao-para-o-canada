@@ -13,5 +13,5 @@
 * [Victoria](https://pt.wikipedia.org/wiki/Victoria_(Col%C3%BAmbia_Brit%C3%A2nica))
 
 # Colleges
-* [Lista de colleges em BC] (https://github.com/OlvArthur/imigracao-para-o-canada/blob/master/provincias/British-Columbia/colleges.md)
+* [Lista de colleges em BC](https://github.com/OlvArthur/imigracao-para-o-canada/blob/master/provincias/British-Columbia/colleges.md)
 
