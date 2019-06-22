@@ -1,5 +1,5 @@
 # Cidades
-* Vancouver
+* [Vancouver](https://pt.wikipedia.org/wiki/Vancouver)
 * Surrey
 * Burnaby
 * Richmond
@@ -11,4 +11,4 @@
 * Langley
 * Nanaimmo
 * Victoria
-* [BC Jobs](https://www.bcjobs.ca)
+
