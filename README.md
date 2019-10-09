@@ -142,9 +142,9 @@ www.youth.gc.ca
 *Most Common
 
 # Províncias e territórios do Canada
-* [Alberta](https://en.wikipedia.org/wiki/Alberta) 
+* [Alberta](https://github.com/OlvArthur/imigracao-para-o-canada/tree/master/provincias/Alberta) 
   - Idioma predominante: Inglês
-* [British Columbia](https://en.wikipedia.org/wiki/British_Columbia)  
+* [British Columbia](https://github.com/OlvArthur/imigracao-para-o-canada/tree/master/provincias/British-Columbia)  
   - Idioma predominante: Inglês
 * [Manitoba](https://en.wikipedia.org/wiki/Manitoba)  
   - Idioma predominante: Inglês
