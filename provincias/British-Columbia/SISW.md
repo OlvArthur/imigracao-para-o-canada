@@ -15,3 +15,6 @@
 
 # Comprovação financeira
 * Varia de acordo com salario 
+
+# Tempo médio entre reunir documentos até receber PR
+* 2 anos
