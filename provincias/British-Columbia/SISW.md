@@ -7,4 +7,6 @@
 * Exigência do teste de inglês apenas para NOC B (CLB 4), porém  uma boa adição de pontos para se ter
 
 # Pontuação
-  * Varia de 0 a 200 pontos
+* Varia de 0 a 200 pontos
+* Nota garantida: 135 pontos
+* Nota de corte em nov 2018: 82 pontos
