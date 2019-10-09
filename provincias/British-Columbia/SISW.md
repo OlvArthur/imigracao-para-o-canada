@@ -11,4 +11,7 @@
 
 * Nota garantida: 135 pontos
 
-* Nota de corte em nov 2018: 82 pontos
+* Nota de corte em nov 2018: 82 pontos(costuma baixar no ultimo semestre)
+
+# Comprovação financeira
+* Varia de acordo com salario 
