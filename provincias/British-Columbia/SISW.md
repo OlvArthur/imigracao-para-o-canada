@@ -8,5 +8,7 @@
 
 # Pontuação
 * Varia de 0 a 200 pontos
+
 * Nota garantida: 135 pontos
+
 * Nota de corte em nov 2018: 82 pontos
