@@ -16,8 +16,9 @@
 * [Lista de colleges em BC](https://github.com/OlvArthur/imigracao-para-o-canada/blob/master/provincias/British-Columbia/colleges.md)
 
 # Processos Provinciais
-* [Skills Immigration skilled worker](https://github.com/OlvArthur/imigracao-para-o-canada/blob/master/provincias/British-Columbia/SISW.md)
+* Os processos Provinciais em BC dão prioridade a TI, agilizando em muito o tempo para finalizar o processo
+  * [Skills Immigration skilled worker](https://github.com/OlvArthur/imigracao-para-o-canada/blob/master/provincias/British-Columbia/SISW.md)
 
-* [Express Entry Skilled worker](https://github.com/OlvArthur/imigracao-para-o-canada/blob/master/provincias/British-Columbia/EESW.md)
+  * [Express Entry Skilled worker](https://github.com/OlvArthur/imigracao-para-o-canada/blob/master/provincias/British-Columbia/EESW.md)
 
-* [Entry Level and Semi Skilled worker](https://github.com/OlvArthur/imigracao-para-o-canada/blob/master/provincias/British-Columbia/ELSSW.md)
+  * [Entry Level and Semi Skilled worker](https://github.com/OlvArthur/imigracao-para-o-canada/blob/master/provincias/British-Columbia/ELSSW.md)
