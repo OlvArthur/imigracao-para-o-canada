@@ -16,6 +16,10 @@
 * [Lista de colleges em BC](https://github.com/OlvArthur/imigracao-para-o-canada/blob/master/provincias/British-Columbia/colleges.md)
 
 # Processos Provinciais
+* Exigências para a empresa
+  * Um ano de existência e pelo menos 5 funcionários para empresas na Grande Vancouver
+  * Três anos de existeência e pelo menos 3 funcionários para outras áreas
+
 * Custo
   * A taxa para o processo é de CAD1040 por adulto para o processo federal +  CAD700 para o processo provincial
  
