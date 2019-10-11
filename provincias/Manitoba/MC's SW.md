@@ -8,3 +8,5 @@ a cidade e o mercado de trabalho
 * Ter um perfil ativo no EE 
 
 OBS: A cidade está procurando majoritariamente por empregos como soldadores, empregos em fábrica, costureiros, etc. Trades em geral
+
+OBS2: A cidade é pequena, não tem shopping e nem transporte público, precisa de carro
