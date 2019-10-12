@@ -172,3 +172,7 @@ www.youth.gc.ca
 
 # Sites de interesse
 * [freecodecamp](https://www.freecodecamp.org/)
+
+# NOCs de interesse
+
+* 2242: Electronic service technicians (Help Desk)
