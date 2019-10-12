@@ -175,4 +175,4 @@ www.youth.gc.ca
 
 # NOCs de interesse
 
-* [2242: Electronic service technicians (Help Desk)](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html#noc)
+* [2242: Electronic service technicians (Help Desk)](http://noc.esdc.gc.ca/English/noc/Profile.aspx?val=2&val1=2242&ver=16)
