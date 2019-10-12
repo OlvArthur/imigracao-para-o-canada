@@ -168,7 +168,7 @@ www.youth.gc.ca
   - Idioma predominante: Inglês
 * [Yukon](https://en.wikipedia.org/wiki/Yukon)
   - Idioma: Inglês, francês e outras linguas.
-* [Quebec first] (https://www.quebecentete.com/en/working-in-quebec-city/job-offers/)  
+* [Quebec first](https://www.quebecentete.com/en/working-in-quebec-city/job-offers/)  
 
 # Sites de interesse
-* [freecodecamp] (https://www.freecodecamp.org/)
+* [freecodecamp](https://www.freecodecamp.org/)
