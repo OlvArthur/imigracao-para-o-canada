@@ -18,3 +18,4 @@
 # Processo
   * Após atingir os requisitos iniciais, o candidato passar a segunda etapa, onde sera atribuido pontos de acordo
   com um grid de seleção
+  ![Alt Text](file:///home/arthur/Imagens/Captura%20de%20tela%20de%202019-10-16%2012-33-37.png)
