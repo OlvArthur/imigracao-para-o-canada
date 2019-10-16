@@ -178,4 +178,4 @@ www.youth.gc.ca
 * [2242: Electronic service technicians (Help Desk)](http://noc.esdc.gc.ca/English/noc/Profile.aspx?val=2&val1=2242&ver=16)
 
 # Express Entry
- * [Federal Skilled Worker] ()
+ * [Federal Skilled Worker](https://github.com/OlvArthur/imigracao-para-o-canada/blob/master/FSW.md)
