@@ -1,4 +1,4 @@
-# Requisitos
+# Requisitos Iniciais
   
   * Experiência de 1 ano (1560 horas) continuo, remunerado nos NOCs 0, A ou B nos ultimos 10 anos
     * Experiencia de trabalho autonoma também qualifica
@@ -25,6 +25,7 @@
 height="300">
 </div>  
 
+  * Simulação de pontos com bacharelado, CLB 7 e 1 ano de experiência: 68 pontos
 
 # Fonte das informações e distribuição detalhada dos pontos
 [Federal Skilled Worker](https://www.youtube.com/watch?v=6BOvOwg4Suo)
