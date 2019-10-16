@@ -5,3 +5,5 @@
 * Ter um Bacharelado
 
 OBS: Uma maior demanda, e consequentemente, mais chamadas, para área de TI
+
+[Link para updates](https://www.ontario.ca/page/ontario-immigrant-nominee-program-oinp) 
