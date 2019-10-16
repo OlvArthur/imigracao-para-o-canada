@@ -16,9 +16,10 @@
     
     
 # Processo
-  * Após atingir os requisitos iniciais, o candidato passar a segunda etapa, onde sera atribuido pontos de acordo
-  com um grid de seleção
-  ![](![Captura de tela de 2019-10-16 12-33-37](https://user-images.githubusercontent.com/35180035/66935778-0165bb80-f013-11e9-85a7-b4679fbcca38.png)
-)
+  * Após atingir os requisitos iniciais, o candidato passa a segunda etapa, onde sera atribuido pontos de acordo
+    com um grid de seleção
 
-<img src="https://user-images.githubusercontent.com/35180035/66935778-0165bb80-f013-11e9-85a7-b4679fbcca38.png">
+
+
+<img src="https://user-images.githubusercontent.com/35180035/66935778-0165bb80-f013-11e9-85a7-b4679fbcca38.png"
+height="250">
