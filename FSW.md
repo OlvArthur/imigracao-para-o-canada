@@ -20,6 +20,7 @@
     com um grid de seleção
 
 
-
+<div align="center">
 <img src="https://user-images.githubusercontent.com/35180035/66935778-0165bb80-f013-11e9-85a7-b4679fbcca38.png"
-height="250">
+height="300">
+</div>  
