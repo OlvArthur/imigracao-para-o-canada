@@ -16,11 +16,15 @@
     
     
 # Processo
-  * Após atingir os requisitos iniciais, o candidato passa a segunda etapa, onde sera atribuido pontos de acordo
-    com um grid de seleção
+  * Após atingir os requisitos iniciais, o candidato passa a segunda etapa, onde sera atribuido pontos (Total: 100) de acordo
+    com um grid de seleção, onde a media de corte é de 67 pontos
 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/35180035/66935778-0165bb80-f013-11e9-85a7-b4679fbcca38.png"
 height="300">
 </div>  
+
+
+# Fonte das informações e distribuição detalhada dos pontos
+[Federal Skilled Worker](https://www.youtube.com/watch?v=6BOvOwg4Suo)
