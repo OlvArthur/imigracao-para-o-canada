@@ -25,7 +25,7 @@
 height="300">
 </div>  
 
-  * Simulação de pontos com bacharelado, CLB 7 e 1 ano de experiência: 68 pontos
+    * Simulação de pontos com bacharelado, CLB 7 e 1 ano de experiência: 68 pontos
 
 # Fonte das informações e distribuição detalhada dos pontos
 [Federal Skilled Worker](https://www.youtube.com/watch?v=6BOvOwg4Suo)
