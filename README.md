@@ -176,7 +176,7 @@ www.youth.gc.ca
 # NOCs de interesse
 
 * [2242: Electronic service technicians (Help Desk)](http://noc.esdc.gc.ca/English/noc/Profile.aspx?val=2&val1=2242&ver=16)
-* [2282 User support technicians](http://noc.esdc.gc.ca/English/noc/Profile.aspx?val=2&val1=2282&ver=16)
-
+* [2282 User support technicians (Help Desk)](http://noc.esdc.gc.ca/English/noc/Profile.aspx?val=2&val1=2282&ver=16)
+* [2147 Computer engineers (except software engineers and designers)](http://noc.esdc.gc.ca/English/noc/Profile.aspx?val=2&val1=2147&ver=16&val65=help%20desk%20technician)
 # Express Entry
  * [Federal Skilled Worker](https://github.com/OlvArthur/imigracao-para-o-canada/blob/master/FSW.md)
