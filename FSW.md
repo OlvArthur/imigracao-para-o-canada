@@ -1,7 +1,8 @@
 # Requisitos Iniciais
   
-  * Experiência de 1 ano (1560 horas) continuo, remunerado nos NOCs 0, A ou B nos ultimos 10 anos
+  * Experiência de 1 ano (1560 horas) continuo (sem interrupções no periodo de 1 ano), remunerado nos NOCs 0, A ou B nos ultimos 10 anos
     * Experiencia de trabalho autonoma também qualifica
+    * Horas de trabaljo acima de 30h/semana não contam
   
   * Proficiência no idioma com CLB 7 (validade de 2 anos)
     * Para IELTS, equivalente a: L-6 S-6 W-6 R-6
@@ -28,4 +29,4 @@ height="300">
     * Simulação de pontos com bacharelado, CLB 7 e 1 ano de experiência: 68 pontos
 
 # Fonte das informações e distribuição detalhada dos pontos
-[Federal Skilled Worker](https://www.youtube.com/watch?v=6BOvOwg4Suo)
+[Youtube Canadicas](https://www.youtube.com/watch?v=6BOvOwg4Suo)
