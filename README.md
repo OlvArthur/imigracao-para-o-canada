@@ -180,3 +180,6 @@ www.youth.gc.ca
 * [2147 Computer engineers (except software engineers and designers)](http://noc.esdc.gc.ca/English/noc/Profile.aspx?val=2&val1=2147&ver=16&val65=help%20desk%20technician)
 # Express Entry
  * [Federal Skilled Worker](https://github.com/OlvArthur/imigracao-para-o-canada/blob/master/FSW.md)
+ 
+# Dúvidas pertinentes
+ * [Comprovação de trabalho]()
