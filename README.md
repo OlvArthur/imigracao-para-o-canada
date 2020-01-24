@@ -41,6 +41,7 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 
 [Lista de colleges que oferecem PGWP](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html)
 
+[Vídeo sobre as duas primeiras semanas](https://www.youtube.com/watch?v=T0YifJfl0-k&feature=youtu.be)
 
 # Como anda o mercado de TI no Canadá? Lista de sites de busca de empregos no Canadá
 * [BC Jobs](https://www.bcjobs.ca)
