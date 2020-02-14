@@ -182,5 +182,8 @@ www.youth.gc.ca
 # Express Entry
  * [Federal Skilled Worker](https://github.com/OlvArthur/imigracao-para-o-canada/blob/master/FSW.md)
  
+# Transporte de cachorro porte grande
+ * [blog embarque com a pri](https://www.embarquecomapri.site/2017/01/30/transporte-de-cachorro-porte-grande-para-o-canada)
+ 
 # Dúvidas pertinentes
  * [Comprovação de trabalho]()
