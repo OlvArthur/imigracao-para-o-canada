@@ -190,3 +190,6 @@ www.youth.gc.ca
  
 # Planejamento financeiro detalhado baseado no estilo de vida do cliente e de acordo com o plano de imigração
  * [instagram @heytofora | Clara](https://www.instagram.com/heytofora/)
+ 
+ # Pólos técnológicos
+ * [https://www.youtube.com/watch?v=IsKc20O7K3k] Kitchener, waterloo e cambridge ( Canada triple triangle )
