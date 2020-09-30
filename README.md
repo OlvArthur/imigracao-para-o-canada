@@ -173,6 +173,10 @@ www.youth.gc.ca
 
 # Sites de interesse
 * [freecodecamp](https://www.freecodecamp.org/)
+* [pantoufle](https://pantoufle.online)
+  - Curso utilizado por uma participante do grupo no telegram para aprender francês para imigrar através do montreal talent
+* [Montreal Talent](https://talentmontreal.com/en)
+  - Processo de imigração do governo de montreal com foco em inglês assim como no francês. Semelhante ao quebec en tete
 
 # NOCs de interesse
 
