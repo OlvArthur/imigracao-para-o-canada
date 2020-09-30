@@ -15,7 +15,9 @@
 # Colleges
 * [Lista de colleges em BC](https://github.com/OlvArthur/imigracao-para-o-canada/blob/master/provincias/British-Columbia/colleges.md)
 
-# Processos Provinciais
+# BC PNP
+* International post graduate 
+
 * Exigências para a empresa
   * Um ano de existência e pelo menos 5 funcionários para empresas na Grande Vancouver
   * Três anos de existência e pelo menos 3 funcionários para outras áreas
@@ -27,5 +29,7 @@
   * [Skills Immigration skilled worker](https://github.com/OlvArthur/imigracao-para-o-canada/blob/master/provincias/British-Columbia/SISW.md)
 
   * [Express Entry Skilled worker](https://github.com/OlvArthur/imigracao-para-o-canada/blob/master/provincias/British-Columbia/EESW.md)
+  
+  * [Skills Immigration International Post graduate]
 
 * [Entry Level and Semi Skilled worker](https://github.com/OlvArthur/imigracao-para-o-canada/blob/master/provincias/British-Columbia/ELSSW.md)
