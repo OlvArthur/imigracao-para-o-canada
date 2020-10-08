@@ -44,3 +44,5 @@ CANADA
 * [WES - Documentos necessário para validaçao de diploma - Em Português](https://applications.wes.org/required/brazil.asp?ctry=ca)
 * [Equivalência de diploma via WES](https://vainevar.wordpress.com/2017/04/27/equivalencia-de-diploma-via-wes/)
 
+### Equivalência de bacharel em direito
+ * Para ter a equivalência de professional Degree é necessário não fazer através do WES. Caso seja feita pelo WES, é possível anexar uma carta requisitando a pontuaço de professional degree, mas a palavra final dependenderá do oficial responsável. A forma mais segura, é fazer por outras instituições tal como IQAS.
