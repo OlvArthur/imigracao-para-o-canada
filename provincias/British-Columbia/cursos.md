@@ -1,6 +1,6 @@
 # Computação
   ## [Alexander College](https://alexandercollege.ca)
-  * Associate of Science (two-year undergraduate degree)
+   ## Associate of Science (two-year undergraduate degree)
   * [Columbia College](https://www.columbiacollege.ca)
      * Associate of Science (two-year undergraduate degree)($32,100+Tuition Deposits)
   * [Langara College (Vancouver)](https://langara.ca/programs-and-courses/index.html)
@@ -9,3 +9,4 @@
   * [Camosun College (Victoria)](http://camosun.ca/)
   * [BCIT](https://www.bcit.ca)
      * 
+  
