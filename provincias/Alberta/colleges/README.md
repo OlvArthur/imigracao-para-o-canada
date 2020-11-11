@@ -27,7 +27,7 @@
 
    ### Software Development
    * College
-      - [SAIT](https://bowvalleycollege.ca/) (público)
+      - [Bow Valley](https://bowvalleycollege.ca/) (público)
    
    * Requisitos
       - Credit in English 30-1 or 65% in English 30-2 or equivalent
