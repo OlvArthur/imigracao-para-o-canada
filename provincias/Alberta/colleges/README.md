@@ -49,7 +49,7 @@
       - Downtown Calgary
         
    * Duração
-      - 4 terms (site não informa periodo em meses/anos), full-time
+      - 4 terms (cada termo tem 3 meses e meio em média, i.e inicio do fall term  setembro 1 e o fim do curso é dezembro do ano seguinte), full-time
         
    * Credencial
       - Diploma
