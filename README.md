@@ -177,6 +177,8 @@ www.youth.gc.ca
   - Curso utilizado por uma participante do grupo no telegram para aprender francês para imigrar através do montreal talent
 * [Montreal Talent](https://talentmontreal.com/en)
   - Processo de imigração do governo de montreal com foco em inglês assim como no francês. Semelhante ao quebec en tete
+* [IELTS mock test](https://takeielts.net)
+  - Simulados das 4 áreas com correções e dicas de professores certificados.
 
 # NOCs de interesse
 
